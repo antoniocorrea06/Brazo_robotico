@@ -34,8 +34,4 @@ Brazo_robotico/
 
 ## Autor
 
-Antonio (Paco) Correa Rodríguez — [@antoniocorrea06](https://github.com/antoniocorrea06)
-
-## Licencia
-
-Sin licencia especificada por el momento.
+Antonio Abad Correa Rodríguez — [@antoniocorrea06](https://github.com/antoniocorrea06)
